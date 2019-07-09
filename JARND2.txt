@@ -288,6 +288,9 @@ af4e97 location JARND0203
 b8dc7c location JARND0210
 
 ## tuning
+d47681 maxwatts 1475
+
+d47681 retune 1
 
 ## asic password
 asicpass admin
