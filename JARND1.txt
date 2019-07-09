@@ -92,6 +92,7 @@ fa91cc location JARND0048
 a6bc73 maxwatts 1525
 0686b3 maxwatts 1525
 e00120 maxwatts 1525
+8d875a maxwatts 1500
 
 e00120 retune 1
 4a573e retune 1
@@ -99,6 +100,7 @@ a6bc73 retune 1
 9d9c35 retune 1
 bde5f4 retune 1
 31d75c retune 1
+8d875a retune 1
 
 ## asic password
 asicpass admin
